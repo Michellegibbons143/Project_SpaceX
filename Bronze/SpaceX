@@ -1,0 +1,5 @@
+CREATE OR REPLACE TABLE SPACEX (
+    SrcCreated TIMESTAMP,
+    SrcLastModified TIMESTAMP,
+    Payload VARIANT
+);
